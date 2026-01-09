@@ -15,4 +15,7 @@
 
 ### Dynamic Host Management 
 
-  * Neues Pods werden automatisch erkannt
+  * Neues Pods werden automatisch erkannt (auch Services, Deployments usw.)
+  * Resourcen, die nicht mehr da sind, werden automatisch rausgelöscht.
+
+### Alternative: Ich müsste das händisch machen 
